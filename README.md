@@ -273,7 +273,7 @@ split_videos_in_directory(directory_path)
    - 如果视频主要是颜色变化较大的场景，可以选择`HistogramDetector`。
    - 如果视频主要是亮度变化较大的场景，可以选择`ThresholdDetector`。
 
-根据视频内容和检测需求，选择合适的检测器和参数设置。
+根据视频内容和检测需求，选择合适的检测器和参数设置。(剩余的数据集制作及上传流程参见 https://github.com/svjack/LLaVA-NeXT)
 
 ### Latest Release: v0.6.5 (November 24, 2024)
 
